@@ -16,12 +16,15 @@ We don't have meetings without a Purpose, Outcome, Process, because if these hav
 
 ## How we run meetings
 
+### Notes
+- All meetings have a notes doc that is shared with participants before and after the meeting. This becomes a useful artifact for remembering past decisions made, and for catching up people whose connection dropped during the meeting, or happened to be out the day of the meeting. 
+- Recurring meetings share a growing notes doc with dated sections. This becomes an artifact documenting the team's work and focus over time.
+
+### Roles
 To make meetings work in an all-remote environment, and for all personality types, we require that each meetings have attendees taking the following roles:
 1. Facilitator: runs the agenda, decides who speaks when
 1. Note-taker: captures meeting notes inline with the Process / Agenda
 1. Time-keeper: ensures agenda sections and the overally meeting runs on time, to be respectful of everyone's time
-
-All meetings have a notes doc that is shared with participants before and after the meeting. This becomes a useful artifact for remembering past decisions made, and for catching up people who happened to be out during the meeting. Recurring meetings share a growing notes doc with dates sections. This becomes an artifact documenting the team's work and focus over time.
 
 Meeting roles require time commitment. We aim to share team time commitments equally, so we rotate meeting roles weekly. 
 
@@ -36,12 +39,21 @@ We prompt the team asynchronously to sign up for roles, and keep active tallies 
 
 ## Meeting Communication Norms
 
-Meetings start on time and end on time.
+### Basics
+- Meetings start on time and end on time. 
+- If not everyone in the meeting knows each other, the meeting starts with an ice-breaker prompt
+- All meetings have a Purpose, Outcome, Process
+- All meetings have a Facilitator, Note-taker, Time-keeper
 
+### Video conferencing
 We're an all-remote environment, and so all our meetings happen over video conference. We prefer video over audio, as it allows participants to pick up on nonverbal cues. We use video conference software that includes chat along with the meeting where we coordinate meeting facilitation.
 
-To be accessible to both introverts and extroverts, and also to manage social dynamics that can be problematic (like one person doing most of the talking, or talking over other participants), the meeting facilitator decides who speaks and drives the agenda. The meeting agenda explicitly includes clearly defined sections for attendee input. Attendees are prompted for input, and "raise hands" via noting they want to speak in the chat. The facilitator calls on "raised hands" in the order they were raised. 
+### Ensuring everyone can participate
+- The meeting facilitator decides who speaks and drives the agenda. Clear agendas and clear facilitation make meetings accessible to both introverts and extroverts, and also manages problematic social dynamics, like one person doing most of the talking, or talking over other participants. 
+- The meeting agenda explicitly includes clearly defined sections for attendee input. 
+- When attendees are prompted for input, they "raise hands" via noting they want to speak in the video conference chat area. The facilitator calls on "raised hands" in the order they were raised. 
 
+### Creating space for complex discussion
 Some people feel more comfortable with extemporaneous speaking and others need thinking and processing time. We are also aware that the person who speaks first disproportionately influences the other meeting attendees. So for complex team decisions that require careful thought, we use the following collaboration device: 
 - Facilitator shares a prompt for the complex question or decision to the attendees
 - Attendees take 5-10 of "quiet writing time" and capture their thoughts async
