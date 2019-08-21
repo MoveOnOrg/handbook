@@ -16,7 +16,7 @@ If you have questions, comments, or suggestions, please open an issue. If you wo
 
 ## Meetings
 
-1. When and how we have meetings
+1. [When and how we have meetings](docs/MEETINGS_WHEN_AND_HOW.md)
 1. Current regular meeting schedule
 
 ## Agile
